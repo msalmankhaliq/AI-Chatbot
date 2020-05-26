@@ -1,0 +1,68 @@
+{"intents": [
+        {"tag": "greeting",
+         "patterns": ["Hi", "How are you", "Is anyone there?", "Hello", "Whats up"],
+         "responses": ["Hello!", "Happy to see you!", "Hi there, how can I help?"],
+         "context_set": ""
+        },
+        {"tag": "goodbye",
+         "patterns": ["See you later", "Goodbye", "I am Leaving", "Have a Good day", "bye","bye bye"],
+         "responses": ["Have a good day", "see you soon", "Goodbye, see you soon", "Goodbye!","Bye Bye!","Have a nice day!"],
+         "context_set": ""
+        },
+        {"tag": "thank you",
+         "patterns": ["Thank you", "Thank you for the answer", "Thanks","Thank you for your time", "Thanks a lot"],
+         "responses": ["It's my pleasure. Thank you for contacting us", "My pleasure","All pleasure is mine","My pleasure, Thank you for reaching to us","My pleasure, looking forward to see you again"],
+         "context_set": ""
+        },
+        {"tag": "name",
+         "patterns": ["what is your name", "what should I call you", "whats your name?"],
+         "responses": ["You can call me Fred.", "I'm Fred!", "I'm Fred aka Heights Communications Chatbot to guide you."],
+         "context_set": ""
+        },
+        {"tag": "location",
+         "patterns": ["Where is your office?", "Where are you located?", "What is the location of your office?", "where is your office located?","Can you please tell me your office location?","What is your address?","Please tell me your address?","What is your office address?"],
+         "responses": ["We are located in Dha Phase 2 Ext, 12th Commercial, Plot 63-C, near Meezan Bank."],
+         "context_set": ""
+        },
+        {"tag": "hours",
+         "patterns": ["when are you guys open", "what are your hours", "hours of operation","What are your office timings?", "Office timings","timings","working hours"],
+         "responses": ["We are open 9am-6pm Monday-Friday and 9am-3am on Saturday!"],
+         "context_set": ""
+        },
+        {"tag": "company",
+         "patterns": ["tell me about your company?", "tell me about Heights Communications", "What type of work you do","What is Heights Communications", "Heights Communications","what does your company do?","What is your company profile?","profile","what is your business profile?"],
+         "responses": ["We, Heights Communication is a BTL agency based in Pakistan and UAE. We do indoor and outdoor advertising campaigns, marketing campaigns and branding campaign for our clients. For more information about our work, you can call us at +923232779999"],
+         "context_set": ""
+        },
+        {"tag": "experience",
+         "patterns": ["tell me about your experience?", "What are your experience", "Are you experienced"," What is your company exprience?", "What is the expereience of your company?", " How long your company is operating"],
+         "responses": ["Since 2007, We are providing clients with advertising and marketing solutions.","We are providing advertising and marketing solutions to our clients since 2007."],
+         "context_set": ""
+        },
+        {"tag": "services",
+         "patterns": ["tell me about your services?", "What are your services", "which services do you offer"," What services you offer to clients?", "What services your company offer?", "services"],
+         "responses": ["We provide variety of services including corporate launch, activities, outdoor promotions, digital branding, product display, digital printing, hoarding advertising and much more. For more information call us at +923232779999"],
+         "context_set": ""
+        },
+        {"tag": "rates",
+         "patterns": ["tell me about your rates?", "What are your rates?", "What is your pricing"," Can you give me a quotaion?", "rates","price?", "quotation"],
+         "responses": ["For rates and pricing of a particular service, call us now at +923232779999 and get the quotaion right away."],
+         "context_set": ""
+        },
+        {"tag": "projects",
+         "patterns": ["tell me about your projects?", "What are your recnt projects?", "which is your recent work"],
+         "responses": ["To see our recent project, please click on  ' our projects' tab. For more information about our past projects call us at +923232779999"],
+         "context_set": ""
+        },
+        {"tag": "clients",
+         "patterns": ["What is your clientele?", "Who are your clients?", "which companies are your clients","For which brands you work for","For which clients you work for"],
+         "responses": ["Well, we have a big list of clients which incluedes some big names as well. To know more about our clientele click on 'our clients' or call us at +923232779999"],
+         "context_set": ""
+        },
+        {"tag": "contact",
+         "patterns": ["What is your contact number?", "How can I contact you?", "Please share your contact number","contact informtion"],
+         "responses": ["You can contact us by calling us at +923232779999 or visit us in working hours."],
+         "context_set": ""
+        }
+   ]
+}
