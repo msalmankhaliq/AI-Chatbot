@@ -1,5 +1,5 @@
 # AI-Chatbot Assistant
-![Image of chatbot] (https://data-flair.training/blogs/wp-content/uploads/sites/2/2019/12/chat-between-user-bot.png)
+![Image of Chatbot](https://github.com/msalmankhaliq/AI-Chatbot/blob/master/chat-between-user-bot.png)
 
 Machine Learning based agent, helps to enable business automation.
 
